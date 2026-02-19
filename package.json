@@ -1,0 +1,12 @@
+{
+  "name": "simple-node-agent-test",
+  "version": "1.0.0",
+  "description": "Minimal Node repo with plain npm test for AI agents",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": ""
+}
